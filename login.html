@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- David Figueroa - 2018 -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ArmCare | Login</title>
+
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body>
+  <div class="loginBody">
+    <div>
+      <div class="loginform">
+        <img src="img/aclogo.png" class="loginlogo" alt="armcare logo">
+        <h3 class="title">Modern Arm Care</h3>
+        <p>Measure, Monitor, Optimize
+          <form action="/action.php">
+            <input class="textbox" type="text" name="user" placeholder="email@example.com"><br>
+            <input class="textbox" type="password" name="pass" placeholder="password"><br>
+            <div class="custom-control custom-checkbox">
+              <input type="checkbox" class="custom-control-input" id="customCheck1" checked>
+              <label class="custom-control-label text" for="customCheck1">Keep me logged in</label>
+            </div>
+            <a href="" class="text">Forgot Password?</a><br>
+            <input type="submit" value="Login">
+            <button class="signupBtn">Sign up</button>
+            <div id="signUpDiv">
+              <p style="font-size: 13px; margin-top:10px;">or</p>
+              <div><span class="signUpText">Lorem ipsum dolor sit amet consec<a class="signUpLink" href="https://localhost/login/"><b>Sign up</b></a></span></div>
+            </div>
+          </form>
+      </div>
+    </div>
+  </div>
+  <script src="js/armcare.default.js"></script>
+</body>
+
+</html>

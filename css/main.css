@@ -1,0 +1,1299 @@
+html,body { height: 100%; margin: 0px; padding: 0px; }
+
+.lh-1.mB-0.logo-text {
+  color: transparent;
+}
+
+img.navbarLogo {
+margin-top: 0px;
+margin-left: 0px;
+}
+
+.marginTop10px {
+  margin-top: 10px;
+}
+.marginTop20px {
+  margin-top: 10px;
+}
+#genderOpt {
+  margin-left: 102px;
+}
+
+.floatLeft {
+   float: left;
+}
+
+.marginLeft80px {
+   margin-left: 80px;
+}
+
+.marginLeft60px {
+  margin-left: 60px;
+}
+
+#divWeight {
+  margin-left: 130px;
+  margin-top: 10px;
+}
+
+.marginTop30px {
+  margin-top: 30px;
+}
+
+.marginLeft120px {
+margin-left: 120px;
+}
+
+.displayInlineMarginLeft {
+display: inline !important;
+margin-left: 20px;
+}
+
+
+.form-group.divPposition {
+margin-top: 20px;
+margin-left: 58px;
+}
+.leftMargin1 {
+  float: left;
+  margin-left: 1%;
+}
+
+.marginLeft52px {
+ margin-left: 52px;
+}
+
+
+.formrowCustom {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -5px;
+    margin-left: 52px;
+}
+
+.top20Left58 {
+margin-top: 20px;
+margin-left: 58px;
+}
+
+
+.marginLeft30px {
+  margin-left: 30px;
+}
+.marginLeft70px {
+  margin-left: 70px;
+}
+.marginTop-33 {
+  margin-top: -33.5px;
+}
+#firstNameDiv {
+  margin-left: 60px;
+}
+.marginBottom5px {
+  margin-bottom: 5px;
+}
+
+.overflowAndWidth100 {
+  overflow-x:auto;
+  width: 100%;
+}
+
+.marginLeft10px {
+  margin-left: 10px;
+}
+
+.textToLeft {
+  text-align: left;
+}
+
+.textToCenter {
+  text-align: center;
+}
+
+.btnBorderNone {
+  background-color: white;
+  color: gray;
+  border: none;
+}
+
+.mainContentPadding {
+  padding: 10px 20px 20px !important;
+}
+
+.displayFlexJustify {
+  display:flex;
+  justify-content:space-between;
+  align-items:baseline;
+}
+
+.selectBackgroundNone {
+  background:none;
+  border:none;
+  -webkit-appearance:none;
+}
+
+.railX {
+left: 0px;
+bottom: 0px;
+}
+
+.railY {
+right: 0px;
+top: 0px;
+}
+
+.thumbX {
+left: 0px;
+width: 0px;
+}
+
+.thumbY {
+top: 0px;
+height: 0px;
+}
+
+#sidebar-toggle {
+  width: 70px;
+}
+
+
+
+
+.dropdownTopLeft {
+   margin-top: 40px;
+   margin-left: -32px;
+}
+
+.loginBody {
+  background: url(../img/home.jpg);
+  background-size: cover;
+  background-repeat: repeat;
+  height: 100%;
+}
+
+div.loginBody .loginform {
+  -webkit-box-shadow: 0px 0px 60px 13px rgba(0, 0, 0, 0.71);
+  -moz-box-shadow: 0px 0px 60px 13px rgba(0, 0, 0, 0.71);
+  box-shadow: 0px 0px 60px 13px rgba(0, 0, 0, 0.71);
+  width: 450px;
+}
+
+div.loginBody p {
+  margin-top: -20px;
+  color: #636363;
+}
+
+div.loginBody .text {
+  color: #636363;
+}
+
+div.loginBody .title {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+div.loginBody input[type=text], div.loginBody select, div.loginBody input[type=password] {
+  width: 75%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline-color: #ff0101;
+  height: 40px;
+}
+
+
+div.loginBody input[type=submit] {
+  width: 100px;
+  height: 35px;
+  background-color: #ff0101;
+  color: white;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+div.loginBody  .signupBtn {
+  width: 100px;
+  height: 35px;
+  background-color: white;
+  color: black;
+  margin: 8px 0;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin-left: 15px
+}
+
+div.loginBody .loginlogo {
+  margin-top: 12%;
+  width: 60%;
+}
+
+div.loginBody .checkboxtext {
+  font-size: 12px;
+}
+
+div.loginBody input[type=checkbox] {
+  width: 13px;
+  height: 13px;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  top: -1px;
+  *overflow: hidden;
+  float: left;
+}
+
+div.loginBody .custom-control-label::after {
+  background-color: #ff0101;
+  border-radius: 2px;
+  outline-color: #ff0101;
+}
+div.loginBody .signupBtn {
+  display: inline-block;
+}
+
+div.loginBody #signUpDiv {
+  display: none;
+}
+
+.header {
+  z-index: 1001 !important;
+}
+
+body {
+  overflow-x: scroll !important;
+}
+
+div.app #btnOpt:hover {
+  color: white;
+}
+
+div.app #btnAddPlayer:hover {
+  color: white;
+}
+
+div.app .navbarLogo {
+  height: 30px;
+  width: 150px;
+  margin-top: 17px;
+  margin-left: 17px;
+}
+
+div.app .titleSelected {
+  color: #ff2608;
+}
+
+div.app .redIcon {
+  color: #ff2608;
+}
+
+div.app .selectedItem {
+  border-left-style: solid;
+  border-left-color: #ff2608;
+}
+
+div.app th {
+  border-top: 2px solid transparent !important;
+}
+
+div.app tbody tr, tbody th {
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.14);
+}
+
+div.app .rightArrow {
+  width: 12.5px;
+  height: 13.2px;
+  background-color: green;
+}
+
+div.app .leftArrow {
+  width: 12.5px;
+  height: 13.2px;
+  background-color: green;
+}
+
+div.app .custom-checkbox2 .custom-control-input:checked~.custom-control-label::after {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3E%3C/svg%3E");
+  background-color: #f44f55;
+}
+
+div.app .custom-checkbox .custom-control-input:checked~.custom-control-label::after {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3E%3C/svg%3E");
+  background-color: #ff2608;
+}
+
+div.app .custom-radio .custom-control-input:checked~.custom-control-label::after {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3E%3C/svg%3E");
+}
+
+div.app .custom-control-label::after {
+  position: absolute;
+  top: .25rem;
+  left: .25rem;
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  content: "";
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 50% 50%;
+}
+
+div.app .custom-control-label::after {
+  background-color: white;
+  border: solid 1px #bfbfbf;
+  border-radius: 3px;
+  outline-color: #ff2608;
+}
+
+div.app *, div.app ::after, div.app ::before {
+  box-sizing: border-box;
+}
+
+div.app .roundedCheck {
+  border-radius: 10px !important;
+}
+
+div.app input[name=search] {
+  margin-left: -00px;
+  width: 20%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: #f9fafb;
+  background-image: url(../img/searchicon.png);
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+div.app input[name=search]:focus {
+  width: 25%;
+  background-color: white;
+}
+
+div.app .btnGray {
+  background-color: #ff2608;
+  color: white;
+  height: 39px;
+}
+
+div.app .btnGray2 {
+  background-color: #cbcbcb;
+  color: gray;
+  height: 39px;
+}
+
+div.app .mainTitle {
+  color: #ff2608 !important;
+}
+
+div.app #btnOpt:active {
+  background-color: white !important;
+  background: white !important;
+}
+
+div.app .dropdwnLeft {
+  margin: 4px auto 4px -9.2% !important;
+}
+
+div.app form .shortInput {
+  width: 49px;
+  display: inline;
+}
+
+div.app form .midInput {
+  width: 60px;
+  display: inline;
+}
+
+div.app form .longInput {
+  width: 230px;
+}
+
+div.app .divRight {
+  margin-left: 40px;
+}
+
+div.app .control {
+  font-family: arial;
+  display: block;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 5px;
+  padding-top: 3px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+div.app .control input {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+
+div.app .control_indicator {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background: #e6e6e6;
+  border: 0px solid #000000;
+}
+
+div.app .control-radio .control_indicator {
+  border-radius: 50%;
+}
+
+div.app .control:hover input~.control_indicator, .control input:focus~.control_indicator {
+  background: #cccccc;
+}
+
+div.app .control input:checked~.control_indicator {
+  background: #cf2a3a;
+}
+
+div.app .control:hover input:not([disabled]):checked~.control_indicator, .control input:checked:focus~.control_indicator {
+  background: #0e6647d;
+}
+
+div.app .control input:disabled~.control_indicator {
+  background: #e6e6e6;
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+div.app .control_indicator:after {
+  box-sizing: unset;
+  content: '';
+  position: absolute;
+  display: none;
+}
+
+div.app .control input:checked~.control_indicator:after {
+  display: block;
+}
+
+div.app .control-radio .control_indicator:after {
+  left: 7px;
+  top: 7px;
+  height: 6px;
+  width: 6px;
+  border-radius: 50%;
+  background: #ffffff;
+}
+
+div.app .control-radio input:disabled~.control_indicator:after {
+  background: #7b7b7b;
+}
+
+div.app .control {
+  font-family: arial;
+  display: block;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 5px;
+  padding-top: 3px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+div.app .control input {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+
+div.app .control_indicator {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background: #e6e6e6;
+  border: 0px solid #000000;
+}
+
+div.app .control-radio .control_indicator {
+  border-radius: undefined%;
+}
+
+div.app .control:hover input~.control_indicator, .control input:focus~.control_indicator {
+  background: #cccccc;
+}
+
+div.app .control input:checked~.control_indicator {
+  background: #ff2608;
+}
+
+div.app .control:hover input:not([disabled]):checked~.control_indicator, .control input:checked:focus~.control_indicator {
+  background: #0e6647d;
+}
+
+div.app .control input:disabled~.control_indicator {
+  background: #e6e6e6;
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+div.app .control_indicator:after {
+  box-sizing: unset;
+  content: '';
+  position: absolute;
+  display: none;
+}
+
+div.app .control input:checked~.control_indicator:after {
+  display: block;
+}
+
+div.app .control-checkbox .control_indicator:after {
+  left: 8px;
+  top: 4px;
+  width: 3px;
+  height: 8px;
+  border: solid #ffffff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+div.app .control-checkbox input:disabled~.control_indicator:after {
+  border-color: #7b7b7b;
+}
+
+div.app input[type=submit] {
+  width: 100px;
+  height: 35px;
+  background-color: #ff2608;
+  color: white;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+div.app .signupBtn {
+  width: 100px;
+  height: 35px;
+  background-color: white;
+  color: black;
+  margin: 8px 0;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin-left: 15px
+}
+
+
+div.app .rightButtonGroup {
+  margin-right: 2%;
+}
+
+div.app .sidebar-toggle {
+  cursor: pointer;
+}
+
+div.app .fa-ellipsis-h {
+  cursor: pointer;
+}
+
+div.app .sidebar-inner {
+  margin-top: 7% !important;
+}
+
+div.app .is-collapsed .sidebar-inner {
+  margin-top: 7% !important;
+}
+
+div.app .menuIcon {
+  background: url('../img/menu.png');
+  height: 64px;
+  width: 64px;
+  display: block;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  margin-top: 25px;
+}
+
+
+div.app .modal-dialog {
+  min-height: calc(100vh - 60px);
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: auto;
+  text-align: center;
+}
+
+@media(max-width: 768px) {
+  div.app .modal-dialog {
+    min-height: calc(100vh - 20px);
+  }
+
+}
+
+@media(max-width: 1100px) {
+  .cellCheckImg {
+    min-width: 100px !important;
+  }
+}
+
+@media(max-width: 320px) {
+  div.app #notificationsMenu {
+    left: -280px !important;
+  }
+}
+
+@media screen and (max-width: 539px) and (min-width: 322px) {
+  div.app #notificationsMenu {
+    left: -310px !important;
+  }
+}
+
+@media(min-width: 510px) {
+  div.app div[class="app"] {
+    min-width: 955px !important;
+    overflow: scroll !important;
+  }
+
+  div.app #titlePlayersMobile {
+    display: none;
+  }
+  div.app .navbarLogo {
+    display: inherit;
+  }
+  div.app .nav-left .notifications {
+    display: none;
+  }
+  div.app #sortByDiv {
+    display: inherit;
+    width: 160px;
+  }
+  div.app #sortByDiv {
+    display: inherit;
+    width: 160px;
+  }
+  div.app .rightButtonGroup {
+    display: inherit;
+  }
+  div.app .main-content #sortByDiv {
+    display: none;
+  }
+  div.app .main-content .rightButtonGroup {
+    display: none;
+  }
+  div.app .sidebar-logo .navbarLogo {
+    display: none;
+  }
+  div.app #notificationsMenu {
+    left: -200px;
+  }
+  div.app .sidebar-logo .peers div{
+    display: none;
+  }
+
+  div.app #btnOpt {
+    margin-left: 10px;
+  }
+  div.app #btnAddPlayer {
+    font-size: 15px;
+  }
+}
+
+@media(max-width: 700px) {
+
+  div.app .formrowCustom {
+    margin-left: 0px;
+  }
+
+  div.app .formrowCustom te {
+    margin-left: 0px;
+  }
+
+  div.app select {
+    width: auto;
+  }
+
+  div.app .subTitle {
+    font-size: 15px;
+  }
+
+  #notificationsMenu img {
+    margin-top: -4px;
+  }
+
+  div.app .dropdown-menu li {
+    margin-left: 10px;
+  }
+  div.app .dropdown-menu.show {
+    left: 0px !important;
+  }
+  div.app #titlePlayersMobile {
+    display: inherit;
+  }
+  div.app .navbarLogo {
+    display: none;
+  }
+  div.app .sidebar-logo .navbarLogo {
+    display: inherit;
+    margin-left: 3px;
+    margin-top: 0px;
+  }
+  div.app .nav-left .notifications {
+    display: inherit;
+  }
+  div.app #sortByDiv {
+    display: none;
+  }
+  div.app .rightButtonGroup {
+    display: none;
+  }
+  div.app .main-content #sortByDiv {
+    display: inherit;
+  }
+  div.app .main-content .rightButtonGroup {
+    display: inherit;
+    margin-bottom: 15px;
+  }
+  div.app .search-box {
+    text-align: center;
+    width: 55%;
+  }
+  div.app .mainTitleCenter {
+    color: #ff2608;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 10px;
+  }
+  div.app .notifications {
+    float: right;
+    margin-right: 15px;
+    margin-top: -8px;
+  }
+  div.app .notifications.dropdwn {
+    float: right !important;
+  }
+  div.app .nav-left {
+    width: 100%;
+  }
+  div.app .searchPlayer {
+    width: 92.5% !important;
+    height: 30px;
+    background-size: 12px 12px;
+    margin-top: -10px;
+    text-align: center;
+  }
+  div.app #sortByDiv {
+    margin-top: 30px;
+    margin-left: 10px;
+  }
+  div.app .rightButtonGroup {
+    width: 100%;
+    float: right;
+    margin-right: -11px;
+  }
+  div.app #btnOpt {
+    width: 35px;
+    height: 35px;
+    padding-top: 5px;
+  }
+  div.app .rightButtonGroup i {
+    margin-left: -5px;
+  }
+  div.app #btnAddPlayer {
+    width: 85%;
+    height: 35px;
+    padding-left: 7px;
+    font-size: 11px;
+  }
+  div.app .table-responsive {
+    padding-top: 20px;
+    border-collapse: separate;
+    border-spacing: 20px 0;
+  }
+  div.app th {
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  div.app tbody tr {
+    background-color: transparent;
+    height: 50px;
+  }
+  div.app .custom-control-label::after {
+    margin-top: 3px;
+  }
+  div.app .bdrs-50p {
+    float: right;
+    margin-top: -25px;
+    margin-left: 30px;
+  }
+  div.app #grayZoneTitle {
+    margin-left: 10px !important;
+  }
+  div.app #firstNameDiv {
+    margin-left: 0px !important;
+    width: 100%;
+  }
+  div.app #firstNameDiv input {
+    width: 100%;
+  }
+  div.app .divRight {
+    margin-left: 0px;
+    margin-top: 10px;
+    width: 100%;
+  }
+  div.app .divRight input {
+    width: 100%;
+  }
+  div.app #dateOfBirth {
+    margin-left: 0px !important;
+    width: 100%;
+  }
+  div.app #genderOpt {
+    margin-left: 0px !important;
+    width: 100%;
+  }
+  div.app #divPhone {
+    margin-left: 0px !important;
+    width: 100%;
+  }
+  div.app #divPhone input {
+    width: 100%;
+  }
+  div.app #divHeight {
+    margin-left: 0px !important;
+  }
+  div.app #divWeight {
+    margin-left: 30px !important;
+    width: 30%;
+  }
+  div.app #divWeight input {
+    width: 49px;
+  }
+  div.app .throwDiv {
+    margin-left: 0px !important;
+  }
+  div.app .divBats {
+    margin-left: 10px !important;
+  }
+  div.app .divPposition {
+    margin-left: 0px !important;
+  }
+  div.app .divSposition {
+    margin-left: 0px !important;
+  }
+  div.app .divPlevel {
+    margin-left: 0px !important;
+  }
+  div.app .bottomBtnGroup {
+    margin-left: 0px !important;
+    margin-top: 40px;
+  }
+  div.app .sidebar-logo {
+    height: 180px;
+  }
+  div.app .sidebar-logo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(../img/pitcher.jpg);
+  }
+  div.app #playerProName {
+    color: white;
+    font-weight: bold;
+    margin-top: -15px;
+  }
+  div.app #userDropDown img {
+    margin-top: 2px;
+    margin-left: 0px;
+  }
+  div.app .nav-right {
+    display: none;
+  }
+  div.app .mainTitle {
+    display: none;
+  }
+  div.app .totalPlayers {
+    display: none;
+  }
+  div.app #caretDownUsr {
+    display: none;
+  }
+}
+
+@media(min-width: 1110px) {
+  div.app div[class="app"] {
+    overflow: hidden !important;
+  }
+}
+@media only screen and (max-width: 600px) {
+  div.loginBody .loginform {
+    background: white;
+    width: 90%;
+    height: 100%;
+    min-height: 450px;
+    border-radius: 25px;
+    word-wrap: break-word;
+    float: none;
+    text-align: center;
+    padding: 20px;
+    margin-left: 5%;
+  }
+  div.loginBody .custom-control-label {
+    outline-color: #ff0101;
+    font-size: 17px;
+    float: none;
+    margin-left: 0;
+  }
+  div.loginBody a {
+    font-size: 12px;
+    margin-left: 0;
+    float: none;
+    margin-top: 0;
+    margin-right: 0;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+
+  div.loginBody a {
+    font-size: 12px;
+    margin-left: 0;
+    float: none;
+    margin-top: 0;
+    margin-right: 0;
+  }
+  div.loginBody .loginform {
+    background: white;
+    width: 60%;
+    height: 100%;
+    max-width: 450px;
+    min-height: 450px;
+    border-radius: 25px;
+    word-wrap: break-word;
+    float: none;
+    text-align: center;
+    padding: 20px;
+    margin-left: 21%;
+  }
+  div.loginBody .custom-control-label {
+    outline-color: #ff0101;
+    font-size: 17px;
+    float: none;
+    margin-left: 0;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+
+  div.loginBody a {
+    font-size: 12px;
+    margin-left: 0;
+    float: none;
+    margin-top: 0;
+    margin-right: 0;
+  }
+  div.loginBody .loginform {
+    background: white;
+    height: 100%;
+    max-width: 400px;
+    min-height: 450px;
+    border-radius: 25px;
+    word-wrap: break-word;
+    float: none;
+    text-align: center;
+    margin-left: 24%;
+  }
+  div.loginBody .custom-control-label {
+    outline-color: #ff0101;
+    font-size: 17px;
+    float: none;
+    margin-left: 0;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+
+  div.loginBody a {
+    font-size: 12px;
+    margin-left: 0;
+    float: none;
+    margin-top: 0;
+    margin-right: 0;
+  }
+  div.loginBody .loginform {
+    background: white;
+    height: 100%;
+    max-width: 450px;
+    min-height: 450px;
+    border-radius: 25px;
+    word-wrap: break-word;
+    float: none;
+    text-align: center;
+    margin-left: 24%;
+  }
+  div.loginBody .custom-control-label {
+    outline-color: #ff0101;
+    font-size: 17px;
+    float: none;
+    margin-left: 0;
+  }
+}
+
+@media only screen and (min-width: 924px) {
+  div.loginBody a {
+    font-size: 12px;
+    margin-left: 20px;
+    float: right;
+    margin-top: -22px;
+    margin-right: 12%;
+  }
+  div.loginBody .loginform {
+    background: white;
+    width: 27%;
+    height: 100%;
+    min-height: 480px;
+    min-width: 390px;
+    float: right;
+    margin-right: 10%;
+    margin-top: 12%;
+    border-radius: 25px;
+    word-wrap: break-word;
+    text-align: center;
+  }
+  div.loginBody .custom-control-label {
+    outline-color: #ff0101;
+    font-size: 15px;
+    float: left;
+    margin-left: 10%;
+  }
+  div.loginBody input[type=submit] {
+    float: left;
+    margin-left: 13%;
+    margin-top: 0px;
+  }
+  div.loginBody .signupBtn {
+    float: left;
+    margin-left: 3%;
+    margin-top: 0px;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  div.loginBody .loginBody {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(../img/home.jpg);
+    background-position: center !important;
+    background-size: 800px 600px;
+  }
+  div.loginBody .text {
+    color: white;
+  }
+  div.loginBody a {
+    font-size: 10px;
+    float: right;
+    margin-top: -25px;
+    margin-right: 0%;
+  }
+  div.loginBody p {
+    color: white;
+  }
+  div.loginBody h3 {
+    font-size: 22px !important;
+  }
+  div.loginBody .loginform {
+    background: transparent;
+    margin-right: 10%;
+    margin-top: 0%;
+    border-radius: 25px;
+    text-align: center;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    color: white;
+  }
+  div.loginBody .custom-control-label {
+    outline-color: #ff0101;
+    font-size: 10px;
+    float: left;
+    margin-left: -12px;
+  }
+  div.loginBody .custom-control-label::before {
+    margin-top: -4px;
+  }
+  div.loginBody .custom-control-label::after {
+    margin-top: -4px;
+  }
+  div.loginBody input[type=submit] {
+    float: none;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+  div.loginBody .signupBtn {
+    float: left;
+    margin-left: 3%;
+    margin-top: 0px;
+  }
+  div.loginBody input[type=text], div.loginBody select, div.loginBody input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: transparent;
+    color: white !important;
+    border: 1px solid white;
+    border-radius: 4px;
+    outline-color: #FFCBCE;
+    height: 40px;
+  }
+  div.loginBody ::placeholder {
+    color: white;
+    opacity: 1;
+  }
+  div.loginBody :-ms-input-placeholder, div.loginBody ::-ms-input-placeholder {
+    color: white;
+  }
+  div.loginBody .signUpText {
+    margin-left: -4%;
+    font-size: 12px;
+  }
+  div.loginBody .signUpLink {
+    margin-top: 2px;
+    margin-left: 5px;
+    font-size: 16px;
+    text-decoration: underline;
+    color: white;
+    float: none;
+  }
+  div.loginBody .signupBtn {
+    display: none;
+  }
+  div.loginBody #signUpDiv {
+    display: inherit;
+  }
+}
+
+@media screen and (max-width: 1439px) and (min-width: 992px) {
+  .header {
+    width: 100% !important;
+    margin-left: -70px;
+  }
+}
+
+@media screen and (max-width: 1539px) and (min-width: 1439px) {
+  .is-collapsed .header {
+    width: 100% !important;
+    margin-left: -4.5%;
+  }
+  .header {
+    width: 100% !important;
+    margin-left: -19%;
+  }
+}
+
+@media screen and (max-width: 1739px) and (min-width: 1539px) {
+  .is-collapsed .header {
+    width: 100% !important;
+    margin-left: -4.4%;
+  }
+  .header {
+    width: 100% !important;
+    margin-left: -17.4%;
+  }
+}
+
+@media screen and (max-width: 1839px) and (min-width: 1739px) {
+  .is-collapsed .header {
+    width: 100% !important;
+    margin-left: -4%;
+  }
+  .header {
+    width: 100% !important;
+    margin-left: -15.5%;
+  }
+}
+
+@media screen and (max-width: 1939px) and (min-width: 1839px) {
+  .is-collapsed .header {
+    width: 100% !important;
+    margin-left: -3.8%;
+  }
+  .header {
+    width: 100% !important;
+    margin-left: -14.4%;
+  }
+}
+
+@media screen and (max-width: 2439px) and (min-width: 1939px) {
+  .is-collapsed .header {
+    width: 100% !important;
+    margin-left: -4%;
+  }
+  .header {
+    width: 100% !important;
+    margin-left: -14.5%;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  div.app .totalPlayers {
+    margin-left: -8%;
+  }
+  div.app .sortBy {
+    margin-left: -60px;
+  }
+  div.app .searchPlayer {
+    margin-right: -8%;
+    height: 45px;
+  }
+}
+
+
+@media only screen and (min-width: 1324px) {
+  div.app .totalPlayers {
+    margin-left: -12%;
+  }
+  div.app .sortBy {
+    margin-left: -120px;
+  }
+  div.app .searchPlayer {
+    margin-right: -13%;
+    height: 45px;
+  }
+  div.app tbody td, tbody th {
+    width: 10px;
+  }
+}
+
+@media only screen and (min-width: 1600px) {
+  div.app .totalPlayers {
+    margin-left: -15%;
+  }
+  div.app .sortBy {
+    margin-left: -180px;
+  }
+  div.app .searchPlayer {
+    margin-right: -16%;
+    height: 45px;
+  }
+}
+
+@media only screen and (min-width: 1800px) {
+  div.app .totalPlayers {
+    margin-left: -19%;
+  }
+  div.app .sortBy {
+    margin-left: -280px;
+  }
+  div.app .searchPlayer {
+    margin-right: -20%;
+    height: 45px;
+  }
+}

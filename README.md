@@ -1,2 +1,1 @@
-# Armcare-frontend
-Frontend for the armcare website
+# armcare-frontend
